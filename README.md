@@ -1,7 +1,7 @@
 # Next.js 15 SSG App
 
 ## What is this repo?
-- A simple Static Site Generation (SSG) application built with Next.js 15
+- A simple Static Site Generation (SSG) application built with Next.js latest version
 - `next.config` has `output`: `export`
 - Expected to be bundled by SSG Bundler
 
