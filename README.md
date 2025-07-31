@@ -1,4 +1,4 @@
-# Next.js SSG App
+# Next.js latest SSG App
 
 ## What is this repo?
 - A simple Static Site Generation (SSG) application built with Next.js latest version
