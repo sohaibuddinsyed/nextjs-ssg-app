@@ -11,7 +11,7 @@ export default function Home() {
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             This is a simple Static Site Generation (SSG) app built with Next.js 15, 
             TypeScript, and Tailwind CSS. All pages are pre-rendered at build time.
-            Change...
+            Change... Env: TEST={process.env.TEST || 'Not set'}
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
